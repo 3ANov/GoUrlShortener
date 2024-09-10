@@ -1,0 +1,8 @@
+{
+  "engine": "postgresql",
+  "server": "db",
+  "port": "5432",
+  "user": "testuser",
+  "password": "testuser",
+  "database": "test_db"
+}
